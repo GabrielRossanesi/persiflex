@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Manutenção e ajuste de persiana">
+  <defs>
+    <linearGradient id="m" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#002b68"/><stop offset="1" stop-color="#780018"/></linearGradient>
+  </defs>
+  <rect width="900" height="620" fill="url(#m)"/>
+  <path d="M-40 485 C170 350 305 575 500 370 C650 212 765 260 948 110" fill="none" stroke="#b8d0e8" stroke-opacity=".24" stroke-width="8"/>
+  <rect x="118" y="90" width="520" height="372" rx="14" fill="#fff" opacity=".92"/>
+  <rect x="152" y="130" width="452" height="292" fill="#eef3f8"/>
+  <g stroke="#fff" stroke-width="16" opacity=".9">
+    <path d="M152 172h452M152 208h452M152 244h452M152 280h452M152 316h452M152 352h452M152 388h452"/>
+  </g>
+  <path d="M600 160 l86 86 -210 210 -86 -86z" fill="#b8d0e8" opacity=".92"/>
+  <path d="M646 114 l140 140 -48 48 -140 -140z" fill="#780018"/>
+  <circle cx="720" cy="188" r="28" fill="#003888"/>
+</svg>

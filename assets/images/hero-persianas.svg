@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Janela com persiana e luz natural">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fbfaf8"/>
+      <stop offset=".48" stop-color="#e8f0f8"/>
+      <stop offset="1" stop-color="#b8d0e8"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" x2="1">
+      <stop offset="0" stop-color="#780018"/>
+      <stop offset="1" stop-color="#003888"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="28" stdDeviation="28" flood-color="#113153" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <path d="M-60 720 C260 520 390 820 690 590 C880 445 930 260 1260 210" fill="none" stroke="#003888" stroke-opacity=".12" stroke-width="6"/>
+  <path d="M-20 625 C210 430 390 610 615 470 C875 308 950 150 1230 105" fill="none" stroke="#780018" stroke-opacity=".12" stroke-width="4"/>
+  <g filter="url(#softShadow)">
+    <rect x="210" y="110" width="780" height="620" rx="16" fill="#fff" opacity=".92"/>
+    <rect x="250" y="155" width="700" height="535" rx="8" fill="#f8fafc"/>
+    <rect x="250" y="155" width="700" height="56" rx="8" fill="url(#brand)"/>
+    <rect x="585" y="210" width="16" height="480" fill="#fff"/>
+    <g opacity=".9">
+      <rect x="250" y="226" width="700" height="18" fill="#ffffff"/>
+      <rect x="250" y="260" width="700" height="18" fill="#eef3f8"/>
+      <rect x="250" y="294" width="700" height="18" fill="#ffffff"/>
+      <rect x="250" y="328" width="700" height="18" fill="#eef3f8"/>
+      <rect x="250" y="362" width="700" height="18" fill="#ffffff"/>
+      <rect x="250" y="396" width="700" height="18" fill="#eef3f8"/>
+      <rect x="250" y="430" width="700" height="18" fill="#ffffff"/>
+      <rect x="250" y="464" width="700" height="18" fill="#eef3f8"/>
+      <rect x="250" y="498" width="700" height="18" fill="#ffffff"/>
+      <rect x="250" y="532" width="700" height="18" fill="#eef3f8"/>
+      <rect x="250" y="566" width="700" height="18" fill="#ffffff"/>
+      <rect x="250" y="600" width="700" height="18" fill="#eef3f8"/>
+    </g>
+    <path d="M690 210 L510 690 H610 L790 210 Z" fill="#b8d0e8" opacity=".35"/>
+    <path d="M870 210 L690 690 H760 L940 210 Z" fill="#fff" opacity=".5"/>
+    <line x1="890" y1="230" x2="890" y2="592" stroke="#780018" stroke-width="5" stroke-linecap="round" opacity=".65"/>
+    <rect x="872" y="572" width="36" height="92" rx="18" fill="#780018"/>
+  </g>
+</svg>

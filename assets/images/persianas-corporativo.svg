@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Persiana corporativa">
+  <rect width="900" height="620" fill="#eef4f9"/>
+  <rect x="98" y="86" width="704" height="368" rx="10" fill="#fff"/>
+  <rect x="138" y="126" width="292" height="288" fill="#f7fafc"/>
+  <rect x="470" y="126" width="292" height="288" fill="#f7fafc"/>
+  <g stroke="#dbe5ef" stroke-width="13">
+    <path d="M138 160h292M138 192h292M138 224h292M138 256h292M138 288h292M138 320h292M138 352h292M138 384h292"/>
+    <path d="M470 160h292M470 192h292M470 224h292M470 256h292M470 288h292M470 320h292M470 352h292M470 384h292"/>
+  </g>
+  <rect x="98" y="454" width="704" height="74" fill="#003888"/>
+  <rect x="98" y="454" width="260" height="74" fill="#780018"/>
+</svg>

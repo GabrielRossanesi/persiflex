@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Instalação profissional de persiana">
+  <rect width="900" height="620" fill="#f7f9fb"/>
+  <path d="M90 500 C230 380 330 500 470 370 C630 220 720 275 820 150" fill="none" stroke="#003888" stroke-opacity=".16" stroke-width="9"/>
+  <rect x="132" y="84" width="540" height="390" rx="12" fill="#fff" stroke="#dfe7ef" stroke-width="4"/>
+  <rect x="170" y="126" width="464" height="58" fill="#780018"/>
+  <g stroke="#dbe5ef" stroke-width="15">
+    <path d="M170 214h464M170 250h464M170 286h464M170 322h464M170 358h464M170 394h464"/>
+  </g>
+  <path d="M685 148h84v36h-84z" fill="#003888"/>
+  <path d="M725 184v126" stroke="#003888" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="725" cy="328" r="30" fill="#780018"/>
+  <path d="M712 328h26M725 315v26" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+</svg>

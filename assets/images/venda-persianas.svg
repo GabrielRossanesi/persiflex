@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Ambiente residencial moderno com persiana">
+  <defs>
+    <linearGradient id="a" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#dbe7f3"/></linearGradient>
+    <linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#780018"/><stop offset="1" stop-color="#003888"/></linearGradient>
+  </defs>
+  <rect width="900" height="620" fill="url(#a)"/>
+  <rect x="62" y="72" width="452" height="384" rx="12" fill="#fff"/>
+  <rect x="92" y="112" width="392" height="300" fill="#f6f8fb"/>
+  <rect x="92" y="112" width="392" height="40" fill="url(#b)"/>
+  <g opacity=".92">
+    <path d="M92 172h392M92 198h392M92 224h392M92 250h392M92 276h392M92 302h392M92 328h392M92 354h392M92 380h392" stroke="#d9e3ee" stroke-width="13"/>
+  </g>
+  <path d="M508 456h280v70H508z" fill="#780018" opacity=".9"/>
+  <path d="M560 394h182v62H560z" fill="#003888" opacity=".78"/>
+  <path d="M585 226 C680 160 745 220 812 150" fill="none" stroke="#003888" stroke-opacity=".17" stroke-width="10"/>
+</svg>

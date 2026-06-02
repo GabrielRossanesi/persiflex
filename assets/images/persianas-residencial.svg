@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Persiana residencial">
+  <rect width="900" height="620" fill="#fbfaf8"/>
+  <rect x="72" y="88" width="410" height="370" rx="12" fill="#fff" stroke="#e3e8ee" stroke-width="4"/>
+  <rect x="108" y="130" width="338" height="260" fill="#edf4fb"/>
+  <g stroke="#fff" stroke-width="15"><path d="M108 164h338M108 198h338M108 232h338M108 266h338M108 300h338M108 334h338M108 368h338"/></g>
+  <path d="M520 455h270v68H520z" fill="#003888" opacity=".82"/>
+  <path d="M565 365h160v90H565z" fill="#780018" opacity=".86"/>
+  <path d="M620 120 C715 190 730 82 832 142" fill="none" stroke="#780018" stroke-opacity=".16" stroke-width="9"/>
+</svg>
