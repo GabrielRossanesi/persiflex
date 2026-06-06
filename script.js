@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "554198750189";
+const WHATSAPP_NUMBER = "5541987991663";
 const WHATSAPP_MESSAGE = "Olá! Vim pelo site da Persiflex e gostaria de solicitar um orçamento.";
 
 const header = document.querySelector(".site-header");
